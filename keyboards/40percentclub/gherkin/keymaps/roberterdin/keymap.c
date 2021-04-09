@@ -40,11 +40,11 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  * | ____ | ____ | ____ | ____ | ____ | FnNav|      |  Alt | Ctrl | Shift|
  * |------+------+------+------+-------------+------+------+------+------|
  * |      |      |      |      |      |      |      |      |      |      |
- * |   A  |   S  |   D  |   F  |   G  |   H  |   J  |   K  |   L  | Enter|
+ * |   A  |   S  |   D  |   F  |   G  |   H  |   J  |   K  |   L  | Backs|
  * | Shift| SysL |      | AltGr| OSkey| OSkey| AltGr| FnNav|      | Shift|
  * '------+------+------+------+------+------|------+------+------+------'
  * |      |      |      |      |      |      |      |      |      |      |       
- * |   Z  |   X  |   C  |   V  |Enter |Space |   B  |   N  |   M  | Space|       
+ * |   Z  |   X  |   C  |   V  |Enter |Space |   B  |   N  |   M  | Backs|       
  * | Ctrl |  Alt | Cmd  | FunL |Lower |Raise | Nav  |  Alt | Ctrl | Shift|       
  * '---------------------------------------------------------------------'       
  */
